@@ -1,4 +1,4 @@
-# PleaseGiveMeAssets RAG Project
+# FinMentor RAG Project
 - **공통 사항**
   - 배포전 프로젝트 자동정렬 및 import 필수!!!(PyCharm CE)
     - 정렬
@@ -18,7 +18,7 @@
   - README.me 파일은 생각나는 기타 사항들을 모두 작성해주면 됩니다.
 
 - **RAG 개발 가이드**
-  - 링크 : https://bjhbhm.atlassian.net/wiki/spaces/cqdnDRC50KdZ/pages/4194305/RAG
+  - 링크 : https://bjhbhm.atlassian.net/wiki/spaces/S5BYxz0B9CKL/pages/18252201/RAG
 
 #### 커밋 메시지 규칙 
 |type | 사용예|
