@@ -1,0 +1,12 @@
+**/.env
+**/*.csv
+**/Lib/
+**/Scripts/
+**/pyvenv.cfg
+**/share/
+**/Include/
+**/token.dat
+**/models/
+**/chroma
+**/chroma_3-large
+**/chroma_db
