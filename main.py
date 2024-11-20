@@ -64,7 +64,7 @@ def generate_response(messages):
     messages = [
         (
             "system",
-            "You are a helpful assistant that translates English to French. Translate the user sentence.",
+            "당신은 사용자의 금융 관련 질문에 대해 전문적인 조언을 제공하는 챗봇입니다. 사용자의 질문에 대해 명확하고 유용한 답변을 해주세요.",
         ),
         ("human", messages),   
     ]
